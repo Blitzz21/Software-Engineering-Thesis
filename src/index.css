@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.satoshi {
+  font-family: "Satoshi";
+}
+
+.integral {
+  font-family: "Integral CF";
+}
