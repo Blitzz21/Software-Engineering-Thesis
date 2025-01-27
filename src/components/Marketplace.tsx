@@ -45,7 +45,7 @@ const gpuData: GPU[] = [
       coreClock: "2235 MHz",
       boostClock: "2640 MHz"
     },
-    image: '../img/rtx4090-rog.jpg',
+    image: 'src/img/rtx4090-rog.jpg',
     stock: 15,
     category: ["Gaming", "AI", "Workstation"]
   },
@@ -62,7 +62,7 @@ const gpuData: GPU[] = [
       coreClock: "1900 MHz",
       boostClock: "2500 MHz"
     },
-    image: "../img/rx7900xtx-nitro.jpg",
+    image: "src/img/rx7900xtx-nitro.jpg",
     stock: 22,
     category: ["Gaming", "Mining"]
   },
@@ -79,7 +79,7 @@ const gpuData: GPU[] = [
       coreClock: "2205 MHz",
       boostClock: "2550 MHz"
     },
-    image: '../img/rtx4080super-gaming.jpg',
+    image: 'src/img/rtx4080super-gaming.jpg',
     stock: 8,
     category: ["Gaming", "Workstation"]
   },
@@ -96,7 +96,7 @@ const gpuData: GPU[] = [
       coreClock: "2100 MHz",
       boostClock: "2400 MHz"
     },
-    image: '../img/arc770-limited.jpg',
+    image: 'src/img/arc770-limited.jpg',
     stock: 30,
     category: ["Gaming"]
   },
@@ -113,7 +113,7 @@ const gpuData: GPU[] = [
       coreClock: "2310 MHz",
       boostClock: "2670 MHz"
     },
-    image: "../img/rtx4070ti-gaming.png",
+    image: "src/img/rtx4070ti-gaming.png",
     stock: 12,
     category: ["Gaming", "Workstation"]
   },
@@ -130,7 +130,7 @@ const gpuData: GPU[] = [
       coreClock: "2310 MHz",
       boostClock: "2535 MHz"
     },
-    image: '../img/rtx4060ti-twin.jpg',
+    image: 'src/img/rtx4060ti-twin.jpg',
     stock: 45,
     category: ["Gaming"]
   },
@@ -147,7 +147,7 @@ const gpuData: GPU[] = [
       coreClock: "2321 MHz",
       boostClock: "2581 MHz"
     },
-    image: '../img/rx6700xt-pulse.jpg',
+    image: 'src/img/rx6700xt-pulse.jpg',
     stock: 28,
     category: ["Gaming", "Mining"]
   },
@@ -164,7 +164,7 @@ const gpuData: GPU[] = [
       coreClock: "1900 MHz",
       boostClock: "1800 MHz"
     },
-    image: "../img/rtx3080ti-ftw3.jpg",
+    image: "src/img/rtx3080ti-ftw3.jpg",
     stock: 18,
     category: ["Gaming", "Workstation"]
   }
