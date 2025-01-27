@@ -1,4 +1,3 @@
-import { Cat } from 'lucide-react';
 import { Navbar, Hero, Footer, Marketplace } from '../components';
 
 function Home() {
